@@ -141,7 +141,10 @@
 
 7. [중복 데이터/ 오류 데이터 관련해서 이야기를 꺼내봅니다.(하르딘)](https://dacon.io/competitions/official/235713/codeshare/2676#)
 
-### pycaret
+### automl
 1. [Pycaret logloss baseline (LB 0.75267) Jay 윤](https://dacon.io/competitions/official/235713/codeshare/2477?page=1&dtype=vote)
    - `pycaret`에 대해 한번 사용해볼 겸 공유코드 따라가봄
    - 이외 공식문서를 통한 조금의 추가실습
+
+2. [하이퍼파라미터 튜닝을 쉽고 빠르게 하는 방법](https://dacon.io/competitions/official/235713/codeshare/2704?page=1&dtype=recent)
+   - Kaggle Competition 에서 많이 사용되는 하이퍼파라미터 튜닝 라이브러리 `optuna`
