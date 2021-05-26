@@ -1,5 +1,8 @@
 # [신용카드 사용자 연체 예측 AI 경진대회](https://dacon.io/competitions/official/235713/overview/description)
 
+## 대회 종료 후...
+- [우승자 코드 리뷰](code_review.md)
+
 ## [데이터 변수 설명](https://www.dacon.io/competitions/official/235713/talkboard/402821/)
 - index
 - gender: 성별
@@ -96,12 +99,6 @@
 7. `edu_type` 교육 수준별로 라벨링 - bad
 
 8. `edu_type` credit에 따라 순차적으로 라벨링 - bad
-
-### 추가로 진행해볼 것
-- 남은 outlier 처리
-  - `income_type`의 Student 7개 뿐
-- 의문의 Encoding 관련
-
 
 
 ## 의문
